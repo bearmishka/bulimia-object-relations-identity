@@ -33,9 +33,9 @@ python stats_audit.py
 
 If you use this code, please cite the software record (Zenodo DOI) and the related preprint.
 
-Zenodo DOI placeholder:
+Zenodo DOI (v1.0.0):
 
-`https://doi.org/10.5281/zenodo.XXXXXXX`
+`https://doi.org/10.5281/zenodo.18986931`
 
 ## License
 
